@@ -3,3 +3,9 @@ This online app can be used to generate volume forecast using two one of the mos
 Once you upload the raw csv format file with the date & historical volume, you will receive the forecasted volume until end of that year.
 The timeframe should be weekly basis.
 All the cleaning and transformation is done within the app itself. 
+
+Keywords: WFM, Forecast Estimation, ARIMA, ETS.
+
+Packages: shiny, readr, forecast, ggplot2, dplyr, tidyr, Metrics, lubridate, scales, fable, fabletools, ggiraph, distributional.
+
+Link to the Webpage: https://giorgigioshvili.shinyapps.io/Volume_FC_incl_Historical_Data/
