@@ -9,3 +9,7 @@ Keywords: WFM, Forecast Estimation, ARIMA, ETS.
 Packages: shiny, readr, forecast, ggplot2, dplyr, tidyr, Metrics, lubridate, scales, fable, fabletools, ggiraph, distributional.
 
 Link to the Webpage: https://giorgigioshvili.shinyapps.io/Volume_FC_incl_Historical_Data/
+
+
+## License
+All Rights Reserved. The code in this repository is for viewing only. Copying, modifying, or distributing the code without permission is strictly prohibited. Contact [g.gioshvili1@gmail.com] for inquiries.
